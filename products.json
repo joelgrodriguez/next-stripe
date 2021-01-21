@@ -1,0 +1,23 @@
+[
+    {
+        "id": "prod_InkWzwa3QpodTA",
+        "title": "Space Jelly Shirt",
+        "description": "Cool space jelly shirt.",
+        "image": "/images/spacejelly-tshirt.jpg",
+        "price": 20
+    },
+    {
+        "id": "prod_InkZaIFUuBiKO4",
+        "title": "Space Jelly Sticker",
+        "description": "Cool space jelly shirt.",
+        "image": "/images/spacejelly-stickers.jpg",
+        "price": 7
+    },
+    {
+        "id": "prod_InkY7cqNC2RAo6",
+        "title": "Space Jelly Combo Pack",
+        "description": "Cool space jelly shirt.",
+        "image": "/images/spacejelly-combo.jpg",
+        "price": 25
+    }
+]
